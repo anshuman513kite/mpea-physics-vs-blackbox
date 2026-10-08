@@ -1,0 +1,7 @@
+,,MAE_mean,MAE_sd,R2_mean,R2_sd
+Random split,Mean predictor,489.0,1.0,-0.01,0.0
+Random split,Black box (composition),230.0,5.0,0.71,0.01
+Random split,Physics features,251.0,2.0,0.64,0.01
+Split by alloy family,Mean predictor,495.0,3.0,-0.03,0.02
+Split by alloy family,Black box (composition),301.0,13.0,0.5,0.03
+Split by alloy family,Physics features,309.0,10.0,0.5,0.03
