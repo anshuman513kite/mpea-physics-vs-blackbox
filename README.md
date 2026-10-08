@@ -84,5 +84,5 @@ jupyter notebook 01_physics_vs_blackbox.ipynb   # downloads the data on first ru
 ```
 
 ## Author
-Anshuman Choudhury — PhD Computational Materials Science (Université Paris-Saclay / CEA),
+Anshuman Choudhury  (PhD Computational Materials Science) (Université Paris-Saclay / CEA),
 atomistic simulation of dislocation dynamics in BCC metals.
